@@ -4,7 +4,7 @@
 
 ```gradle
 dependencies {
-    implementation 'com.github.return-kr:save_to_storage:$latest_stable_version'
+    implementation 'com.github.return-kr:logger-write:$latest_stable_version'
 }
 ```
 ### Add the following to the settings.gradle file. ###
